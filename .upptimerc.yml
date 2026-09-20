@@ -8,7 +8,7 @@ sites:
     url: https://application-status-page-827172084600.us-central1.run.app/storefront
 
 status-website:
-  baseUrl: /BayezonAppStatus
+  baseUrl: /
   name: ""
   logoUrl: https://raw.githubusercontent.com/Bayezon/BayezonAppStatus/master/assets/logo.webp
   favicon: https://raw.githubusercontent.com/Bayezon/BayezonAppStatus/master/assets/favicon.ico
